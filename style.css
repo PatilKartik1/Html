@@ -10,28 +10,33 @@ body {
   height: 100%;
 }
 
-#a{
+#a {
   width: 80%;
   height: 15%;
-   margin: 20px;
-   background-color: brown;
-   color: white;
-   padding: 20px;
-
+  margin: 20px;
+  background-color: brown;
+  color: white;
+  padding: 20px;
 }
-#main
-{
+#main {
   width: 40%;
   height: 30%;
+  padding: 50px;
   background-color: black;
 }
 
-#p{
- color: navajowhite;
+#p {
+  color: navajowhite;
 }
-#q{
+#q {
   color: blue;
 }
-#r{
+#r {
   color: red;
+}
+
+#m{
+margin : 20px;
+
+
 }
