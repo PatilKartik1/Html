@@ -1,0 +1,40 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+
+#a {
+  width: 80%;
+  height: 15%;
+  margin: 20px;
+  background-color: brown;
+  color: white;
+  padding: 20px;
+}
+#main {
+  width: 40%;
+  height: 30%;
+  padding: 50px;
+  background-color: black;
+}
+
+#p {
+  color: navajowhite;
+}
+#q {
+  color: blue;
+}
+#r {
+  color: red;
+}
+
+#m {
+  margin: 20px;
+}
