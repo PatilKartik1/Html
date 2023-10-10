@@ -211,4 +211,4 @@ window.addEventListener("pointerup", e => mouse.remove(e.pointerId))
 window.addEventListener("pointermove", e => {
   if (mouse.touches.has(e.pointerId))
     mouse.update(e.clientX, e.clientY, e.pointerId)
-})
+})  
